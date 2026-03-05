@@ -155,20 +155,20 @@ Uptime:              Hourly cron + 24/7 WebSocket listener
 Real GitHub Actions run — agent scanning, filtering, bidding:
 
 ```
-🤖 budget_skynet v14.5 (MULTI-PLATFORM EDITION) запущен...
-✅ Service Registry: 6 сервисов зарегистрировано
-🔄 WebSocket подключён к маркету (Railway)
-📋 bid_job_ids загружены: 1297 (включая rejected/withdrawn)
-📊 Всего найдено: 100 | Новых (не бидовали): 21
-💡 Умный бид: 10.0N × 70% = 7.0N
-💡 Умный бид: 15.0N × 70% = 10.5N
+🤖 budget_skynet v14.6 started (MULTI-PLATFORM EDITION)
+✅ Service Registry: 6 services registered
+🔌 WebSocket connected to market (Railway)
+📋 bid_job_ids loaded: 1297 (including rejected/withdrawn)
+📊 Total found: 100 | New (not yet bid): 21
+💡 Smart bid: 10.0N × 70% = 7.0N
+💡 Smart bid: 15.0N × 70% = 10.5N
 🚫 is_good_standard_job SKIP: IronClaw Pair Trading... | tags=['rust','trading']
 🚫 is_good_standard_job SKIP: Create AI social media pack | tags=['design','graphics']
 ✅ [npm_package] Build NEAR SDK TypeScript wrapper | 15.0N → 10.5N
    📦 Publishing to npm: near-sdk-wrapper@1.0.847
    ✅ npm published: https://www.npmjs.com/package/near-sdk-wrapper
-   ✅ Работа сдана: https://www.npmjs.com/package/near-sdk-wrapper
-🎯 Бидов подано: +3 | Скип: 18 (не умеем) | Уже бидовали: 79
+   ✅ Work submitted: https://www.npmjs.com/package/near-sdk-wrapper
+🎯 Bids placed: +3 | Skipped: 18 | Already bid: 79
 ```
 
 Full run logs: [GitHub Actions](https://github.com/worksOnMyFridge/budget-skynet-agent/actions)
