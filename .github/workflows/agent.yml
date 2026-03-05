@@ -1,7 +1,7 @@
 name: budget_skynet
 on:
-  schedule:
-    - cron: '*/15 * * * *'  # каждые 15 минут — страховка если WebSocket отвалился
+  #schedule:
+   # - cron: '*/15 * * * *'  # каждые 15 минут — страховка если WebSocket отвалился
   workflow_dispatch:          # ручной запуск через GitHub / мобильное приложение
 jobs:
   run-agent:
