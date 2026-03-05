@@ -9,6 +9,14 @@
 
 ---
 
+## Live Status
+
+🟢 **Dashboard:** https://budget-skynet-api-production.up.railway.app
+📊 **API Docs:** https://budget-skynet-api-production.up.railway.app/api/docs
+🔍 **Health:** https://budget-skynet-api-production.up.railway.app/status
+
+---
+
 ## What It Does
 
 budget_skynet is a **production autonomous agent** that handles the complete job lifecycle on market.near.ai without any manual intervention:
